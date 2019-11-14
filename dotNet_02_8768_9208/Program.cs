@@ -10,6 +10,10 @@ namespace dotNet_02_8768_9208
     {
         static void Main(string[] args)
         {
+            Console.WriteLine(" rien de spaciale");
+
+
+
         }
     }
 }
